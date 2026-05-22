@@ -1,16 +1,18 @@
 import './App.css';
 
+
 function TextBlock() {
     return (
         <div id="textblock">
             <div id="textblock-container">
-                <h1 id="textblock-title">What is Parallax?</h1>
-                <p id="textblock-content">
-                Parallax<br/><br/>
-                A parallax website is a type of web design where the background and foreground elements move at different speeds as you scroll — creating a sense of depth and motion, almost like a 3D effect.<br/><br/>
-                This technique is often used to make websites more visually engaging and interactive. It can be applied to various elements, such as images, text, and even videos, to create a dynamic and immersive user experience.<br/><br/>
-                Parallax scrolling can be achieved using CSS, JavaScript, or a combination of both. It is commonly used in storytelling websites, portfolios, and landing pages to captivate visitors and guide them through the content in a visually appealing way.
-                </p>
+<h1 id="textblock-title">Hi, I’m Farzam</h1>
+<p id="textblock-content">
+Welcome to my very first parallax website!<br/><br/>
+I’m a freelancer and front‑end developer who loves building clean, responsive, and interactive designs.<br/><br/>
+Now you might be wondering — what’s parallax?<br/><br/>
+Parallax is a web design technique where the background and foreground move at different speeds as you scroll. The result? A dynamic, almost 3D‑like effect that makes the page feel alive.<br/><br/>
+This site is my first step into showcasing that effect — blending my introduction with a bit of motion and storytelling to make the experience more engaging.
+</p>
             </div>
             <footer id='textblock-footer'>Farzam Sultani</footer>
         </div>
