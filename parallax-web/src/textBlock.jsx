@@ -14,7 +14,7 @@ Parallax is a web design technique where the background and foreground move at d
 This site is my first step into showcasing that effect — blending my introduction with a bit of motion and storytelling to make the experience more engaging.
 </p>
             </div>
-            <footer id='textblock-footer'>Farzam Sultani</footer>
+            <footer id='textblock-footer'>Farzam Sultani this page is currently under constration</footer>
         </div>
     );
 }
